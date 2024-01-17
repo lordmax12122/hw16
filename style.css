@@ -1,6 +1,11 @@
-body{
-    background-position: center;
-    background-image: url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg); 
-    background-color: green;
-    background-repeat: no-repeat;
+body {
+  background-image: 
+  url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png),
+  url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg),
+   url(grass.png), url(lamp.png),
+    url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru);
+    background-position: 1860px, center 150px, 30px 700px, 30px 0, 0;
+  background-size: 60px 60px, 900px 600px, 300px 300px, 75px 100px, 30px 30px;
+  background-repeat: repeat-y, no-repeat, repeat-x, repeat-x, repeat-y;
+  background-color: green;
 }
